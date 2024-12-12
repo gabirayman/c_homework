@@ -3,7 +3,7 @@
 int main() {
     int num1, num2;
 
-    // printf("enter 2 ints: ");
+    printf("enter 2 ints seperated by a space: ");
     scanf("%d %d", &num1, &num2);
     
     printf("The Armstrong numbers are: ");
